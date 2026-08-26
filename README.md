@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="./assets/logo.png" width="180" alt="Pringles Logo" />
+<img src="pringles_logo_icon_168042.webp" width="180" alt="Pringles Logo" />
 </div>
 
 <div align="center">
