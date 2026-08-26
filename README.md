@@ -1,8 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B22222,100:FF4500&height=200&section=header&text=Pringles%20Landing%20Page&fontSize=40&fontColor=ffffff&fontAlignY=38&descAlignY=58&descColor=ffe0b3" />
-</div>
-
-<div align="center">
 <img src="pringles_logo_icon_168042.webp" width="180" alt="PringlesLogo" />
 </div>
 
