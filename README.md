@@ -1,4 +1,4 @@
-<div align="center"> <img src="pringles_logo_icon_168042.webp" width="260" alt="Pringles Logo" /> </div> <div align="center">
+<div align="center"> <img src="pringles_logo_icon_168042.webp" width="400" alt="Pringles Logo" /> </div> <div align="center">
 
 <div align="center">
 
